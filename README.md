@@ -1,7 +1,7 @@
 # Midterm-Project
 Team Members: 
-	- Quoc Thach Nguyen
-	- Franklin Anozie
+	Quoc Thach Nguyen
+	Franklin Anozie
 
 ## Project/Goals
 	- Our midterm project aims to predict future weather trends, specifically the temperature, in Calgary, Canada, to inform jacket production strategy. Assume, as a sales manager for a jacket company, understanding whether the temperature will rise or fall in the coming years is pivotal. We specialize in season-specific apparel, producing winter jackets, light fall jackets, and spring sweaters. The objective is to align our production with the anticipated weather conditions to meet the city’s specific needs effectively.
