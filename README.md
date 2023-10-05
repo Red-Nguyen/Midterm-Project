@@ -1,17 +1,18 @@
 # Midterm-Project
-Team Members: 
-	Quoc Thach Nguyen
-	Franklin Anozie
+Team members: 
+	- Quoc Thach Nguyen
+	- Franklin Anozie
 
 ## Project/Goals
-	- Our midterm project aims to predict future weather trends, specifically the temperature, in Calgary, Canada, to inform jacket production strategy. Assume, as a sales manager for a jacket company, understanding whether the temperature will rise or fall in the coming years is pivotal. We specialize in season-specific apparel, producing winter jackets, light fall jackets, and spring sweaters. The objective is to align our production with the anticipated weather conditions to meet the city’s specific needs effectively.
+	Our midterm project aims to predict future weather trends, specifically the temperature, in Calgary, Canada, to inform jacket production strategy. Assume, as a sales manager for a jacket company, understanding whether the temperature will rise or fall in the coming years is pivotal. We specialize in season-specific apparel, producing winter jackets, light fall jackets, and spring sweaters. The objective is to align our production with the anticipated weather conditions to meet the city’s specific needs effectively.
 
 ## Process
 
 ### Step 1: Discussion on Logistics and Interests
-	- Discuss Availability: Align team members’ schedules to set dedicated time for collaborative work.
-	- Interest Exploration: Explore each team member's interests and expertise to leverage strengths.
-	- Project Brainstorming: Begin brainstorming on how to approach the weather prediction and its impact on jacket production.
+
+	Discuss Availability: Align team members’ schedules to set dedicated time for collaborative work.
+	Interest Exploration: Explore each team member's interests and expertise to leverage strengths.
+	Project Brainstorming: Begin brainstorming on how to approach the weather prediction and its impact on jacket production.
 
 ### Step 2:Finalize Problem Statement and Data
 	- Problem Statement: Finalize the focus on predicting weather trends for Calgary, impacting jacket production.
