@@ -1,6 +1,6 @@
 # Midterm-Project 
 Team members: 
-- Quoc Thach Nguyen
+- Quoc Thach Nguyen (RED)
 - Franklin Anozie
 
 ## Project/Goals
