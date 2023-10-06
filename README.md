@@ -10,9 +10,9 @@ Team members:
 
 ### Step 1: Discussion on Logistics and Interests
 
-	Discuss Availability: Align team members’ schedules to set dedicated time for collaborative work.
-	Interest Exploration: Explore each team member's interests and expertise to leverage strengths.
-	Project Brainstorming: Begin brainstorming on how to approach the weather prediction and its impact on jacket production.
+- Discuss Availability: Align team members’ schedules to set dedicated time for collaborative work.
+- Interest Exploration: Explore each team member's interests and expertise to leverage strengths.
+- Project Brainstorming: Begin brainstorming on how to approach the weather prediction and its impact on jacket production.
 
 ### Step 2:Finalize Problem Statement and Data
 	- Problem Statement: Finalize the focus on predicting weather trends for Calgary, impacting jacket production.
